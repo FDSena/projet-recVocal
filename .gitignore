@@ -1,0 +1,20 @@
+# Fichiers de sauvegarde Jupyter inutiles
+.ipynb_checkpoints/
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers audio et poids (si volumineux)
+*.wav
+*.mp3
+*.h5
+*.keras
+*.zip
+allumer_mp3/*
+eteindre_mp3/*
+allumer_wav/*
